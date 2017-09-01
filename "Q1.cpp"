@@ -1,0 +1,12 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+	int a= 9;
+	char b= 'z';
+	float c=7.9;
+	bool d=false;
+	cout<< "a" << "b" << "c" <<"d";
+	
+	return 0;
+}
